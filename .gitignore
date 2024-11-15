@@ -1,0 +1,17 @@
+# .gitignore
+__pycache__/
+.pytest_cache/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.db
+*.log
+.env
+chromedriver.exe
+allure-report
+allure-files
+allure-result
+allure-results
