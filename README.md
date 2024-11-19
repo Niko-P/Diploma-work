@@ -5,7 +5,8 @@
 
 Интернет-магазин книг Читай-город.
 
-Сайт: [https://www.chitai-gorod.ru/](https://www.chitai-gorod.ru/)
+Сайт: [https://www.chitai-gorod.ru/]
+Отчет по ручному тестированию: [https://roan-detective-bab.notion.site/2f17efb22e914dd1ab52af46ec1734d4]
 
 ### Стек технологий:
 - **pytest**
